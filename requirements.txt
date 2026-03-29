@@ -1,0 +1,14 @@
+# Runway Detection Pipeline Dependencies
+# Includes deep learning, computer vision, and scientific computing tools.
+
+tensorflow
+keras
+numpy
+opencv-python
+opencv-contrib-python
+matplotlib
+Pillow
+scipy
+scikit-learn
+scikit-image
+pandas
